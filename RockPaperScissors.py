@@ -185,7 +185,7 @@ com["state"] = 'readonly'
 com.pack()
 com.current(0)
 
-copyright = Label(root, text="Copyright © 2021 Samyak jain. All rights reserved.", bg='black', fg='white')
+copyright = Label(root, text="Copyright 2021 Samyak jain. All rights reserved.", bg='black', fg='white')
 copyright.place(x=72, y=560)
 
 root.mainloop()
